@@ -1,0 +1,18 @@
+body{
+    display: grid;
+    place-content: center;
+}
+#fielset-1{
+    background-color: rgb(123, 65, 150);
+
+    color: white;
+    
+}
+
+img{
+    width: 600px;
+}
+
+#fielset-2{
+    background-color: rgb(218, 166, 248);
+}
